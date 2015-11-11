@@ -1,2 +1,5 @@
-# continuous-enterprise-development-swarm
-[Continuous Enterprise Development in Java](http://booksite.continuousdev.org/) notes using WildFly Swarm
+# geekseek
+
+geekseek with WildFly Swarm.
+
+Originally it is from [Continuous Enterprise Development in Java](http://booksite.continuousdev.org/).
